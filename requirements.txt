@@ -1,0 +1,9 @@
+easyocr
+streamlit
+plotly
+pandas
+pymysql
+mysql.connector
+numpy
+os
+
